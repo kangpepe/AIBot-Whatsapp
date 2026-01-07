@@ -1,4 +1,5 @@
 # Chatbot WhatsApp: Integrasi Whatsapp API & Google Gemini AI
+https://res.cloudinary.com/dkqjnp4g1/image/upload/Video-WhatsApp-2025-07-17-pukul-12.39.08_fc8b8457-ezgif.com-video-to-gif-converter_ecs3kv.gif
 
 Repository ini membahas proses integrasi **WhatsApp API Gateway** dan **Google Gemini AI** untuk menciptakan asisten virtual (Chatbot) yang cerdas. Dengan menggabungkan teknologi Webhook dan kecerdasan buatan dari Gemini, kita dapat membangun chatbot yang mampu memahami dan merespons pesan secara kontekstual dan otomatis.
 
