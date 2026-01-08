@@ -1,5 +1,8 @@
-# Chatbot WhatsApp: Integrasi Whatsapp API & Google Gemini AI
-
+### Hi there 👋 ini Chatbot WhatsApp: Integrasi Whatsapp API & Google Gemini AI
+Sebelum memulai mencoba silahkan anda coba chat dan lihat aksi dari whatsapp kami disini, **klik Coba WhatsApp**
+<br>
+[![GitLab](https://img.shields.io/badge/Coba-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281365655692)
+<hr>
  <img src="https://res.cloudinary.com/dkqjnp4g1/image/upload/Video-WhatsApp-2025-07-17-pukul-12.39.08_fc8b8457-ezgif.com-video-to-gif-converter_ecs3kv.gif" alt="html5" width="100%"/>
 
 
